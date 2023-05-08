@@ -1,0 +1,27 @@
+$breakpoints: (
+  // smalls
+  "small": 320px,
+  "mobile": 320px,
+  //   mediums
+  "smedium": 500px,
+  "medium": 768px,
+  "tablet": 768px,
+  //   larges
+  "large": 1024px,
+  "desktop": 1024px,
+  //   extra larges
+  "xlarge": 1200px,
+  "xxlarge": 1440px,
+  "widescreen": 1440px
+) !default;
+
+$page-bg: #15171B;
+$primary-bg: #343840;
+$user-1: #E09651;
+$user-2: #E06B51;
+$gradient: linear-gradient(to right, $user-1, $user2);
+$light-gray: #424750;
+$menu-bg: #25272E;
+$input-bg: #25272E;
+$text-light: #FFFFFF;
+$text-dark: #757981;
